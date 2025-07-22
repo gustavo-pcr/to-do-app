@@ -1,3 +1,3 @@
 Ferramenta de criação de lista de tarefas (To-Do List) para controle de atividades.
 
-Feito utilizando o Framework Django do Python, HTML5 e CSS3. Código fonte completo, seguindo o modelo MVT do Django.
+Feito utilizando o Framework Django ORM do Python, HTML5 e CSS3 Bootstrap. Código fonte completo, seguindo o modelo MVT do Django.
